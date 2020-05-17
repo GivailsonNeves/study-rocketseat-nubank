@@ -1,6 +1,7 @@
 import React from 'react';
+import QRCode from 'react-native-qrcode-svg';
 
-import { Container, Code, QRCode, Nav, NavItem, NavText, SignOutButton, SignOutText } from './styles';
+import { Container, Code, Nav, NavItem, NavText, SignOutButton, SignOutText } from './styles';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
 export default function Menu({translateY}) {
@@ -15,24 +16,29 @@ export default function Menu({translateY}) {
             }
         }>
             <Code>
-                <QRCode>Vale um Qrcode</QRCode>
+                <QRCode
+                    value="teste de qr"
+                    size={80}
+                    fgColor="#FFF"
+                    bgColor="#8B10AE"
+                />
             </Code>
             <Nav>
                 <NavItem>
-                    <Icon name="attach-money" size={20} color="#FFF" />
+                    <Icon name="help-outline" size={20} color="#FFF" />
                     <NavText>Me ajuda</NavText>
                 </NavItem>
                 <NavItem>
-                    <Icon name="attach-money" size={20} color="#FFF" />
-                    <NavText>Me ajuda</NavText>
+                    <Icon name="person-outline" size={20} color="#FFF" />
+                    <NavText>Perfil</NavText>
                 </NavItem>
                 <NavItem>
-                    <Icon name="attach-money" size={20} color="#FFF" />
-                    <NavText>Me ajuda</NavText>
+                    <Icon name="credit-card" size={20} color="#FFF" />
+                    <NavText>Configurar cartão</NavText>
                 </NavItem>
                 <NavItem>
-                    <Icon name="attach-money" size={20} color="#FFF" />
-                    <NavText>Me ajuda</NavText>
+                    <Icon name="smartphone" size={20} color="#FFF" />
+                    <NavText>Configurações do app</NavText>
                 </NavItem>
             </Nav>
 
