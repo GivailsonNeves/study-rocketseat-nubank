@@ -21,10 +21,9 @@ Estudo feito em referência ao tutorial disponibilizado pelo [Rocketseat](https:
 
 ## Screen Demo
 
-![Tela inicial](https://github.com/GivailsonNeves/Study-Rocketseat-Nubank-Like/blob/master/screen-shots/screen-1.png?raw=true)
-![Carrossel](https://github.com/GivailsonNeves/Study-Rocketseat-Nubank-Like/blob/master/screen-shots/screen-2.png?raw=true)
-![Slide down](https://github.com/GivailsonNeves/Study-Rocketseat-Nubank-Like/blob/master/screen-shots/screen-3.png?raw=true)
-
+<img src="https://github.com/GivailsonNeves/Study-Rocketseat-Nubank-Like/blob/master/screen-shots/screen-1.png?raw=true" width="150">&nbsp;
+<img src="https://github.com/GivailsonNeves/Study-Rocketseat-Nubank-Like/blob/master/screen-shots/screen-2.png?raw=true" width="150">&nbsp;
+<img src="https://github.com/GivailsonNeves/Study-Rocketseat-Nubank-Like/blob/master/screen-shots/screen-3.png?raw=true" width="150">
 
 ## Sumário
 
