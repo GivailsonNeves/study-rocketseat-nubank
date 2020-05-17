@@ -4,7 +4,7 @@ Estudo feito em referência ao tutorial disponibilizado pelo [Rocketseat](https:
 
 ## Sumário
 
-- [Requisitos para execução do projeot](#game-demo)
+- [Requisitos para execução do projeto](#requisitos-para-execução-do-projeto)
 - [Tecnologias em destaque](#tecnologias-em-destaque)
 - [Screen Demo](#screen-demo)
 
@@ -28,6 +28,6 @@ Estudo feito em referência ao tutorial disponibilizado pelo [Rocketseat](https:
 
 ## Sumário
 
-- [Requisitos para execução do projeot](#game-demo)
+- [Requisitos para execução do projeto](#requisitos-para-execução-do-projeto)
 - [Tecnologias em destaque](#tecnologias-em-destaque)
 - [Screen Demo](#screen-demo)
