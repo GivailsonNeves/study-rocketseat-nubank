@@ -5,11 +5,8 @@ Estudo feito em referência ao tutorial disponibilizado pelo [Rocketseat](https:
 ## Sumário
 
 - [Requisitos para execução do projeot](#game-demo)
-- [Fluxo do jogo](#fluxo-do-jogo)
-- [Configurações do jogo](#configurações-do-jogo)
-- [Comandos do jogo](#comandos-do-jogo)
-- [Game Demo](#game-demo)
-
+- [Tecnologias em destaque](#tecnologias-em-destaque)
+- [Screen Demo](#screen-demo)
 
 ## Requisitos para execução do projeto:
 
@@ -31,6 +28,6 @@ Estudo feito em referência ao tutorial disponibilizado pelo [Rocketseat](https:
 
 ## Sumário
 
+- [Requisitos para execução do projeot](#game-demo)
 - [Tecnologias em destaque](#tecnologias-em-destaque)
-- [Fluxo do jogo](#fluxo-do-jogo)
 - [Screen Demo](#screen-demo)
